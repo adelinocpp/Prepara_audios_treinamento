@@ -1,7 +1,7 @@
 # audio folders
-GSM_debug
-PDR_debug
-QST_debug
-RUIDOS
-ZZ_treinamento
+/GSM_debug
+/PDR_debug
+/QST_debug
+/RUIDOS
+/ZZ_treinamento
 Audios_data_v0.mat
